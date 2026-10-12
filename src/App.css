@@ -1,0 +1,41 @@
+.counter-component{
+  margin:auto;
+  width: 320px;
+  padding:20px;
+  border-width:5px;
+  border-style:solid;
+  border-color:black;
+  border-radius:5px;
+  display:flex;
+  flex-direction:column;
+}
+
+.count {
+  /* make the number large */
+  font-size:large;
+  
+  /* center it */
+  align-items:center;
+  
+  /* give some vertical spacing */
+}
+
+.buttons {
+  /* put buttons next to each other */
+
+  /* add space between them */
+}
+
+button {
+  /* padding */
+
+  /* font size */
+
+  /* rounded corners */
+
+  /* cursor */
+}
+
+button:hover {
+  /* make something change */
+}
